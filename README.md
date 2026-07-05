@@ -90,4 +90,3 @@ TruLens evaluates the RAG pipeline using an LLM-as-a-judge on three core metrics
 - [LlamaIndex](https://www.llamaindex.ai/) - Data framework for building LLM applications.
 - [Google Gemini API](https://ai.google.dev/) - `gemini-2.5-flash` for LLM and `gemini-embedding-001` for embeddings.
 - [TruLens](https://www.trulens.org/) - Evaluation framework for LLM apps.
-- [Wikipedia-API](https://pypi.org/project/Wikipedia-API/) - Sourcing ground truth document context.

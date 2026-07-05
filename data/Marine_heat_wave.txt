@@ -1,0 +1,58 @@
+A marine heatwave is a period of abnormally high sea surface temperatures (SST) compared to typical temperatures for a particular season and locale. Marine heatwaves are caused by a variety of drivers. These include short term weather events such as fronts, intraseasonal events (30 to 90 days), annual, and decadal (10-year) modes like El Niño events, and human-caused climate change. Such heatwaves affect marine ecosystems. For example, heatwaves can lead to events such as coral bleaching, sea star wasting disease, harmful algal blooms, and mass mortality of benthic communities. Unlike heatwaves on land, marine heatwaves can extend over vast areas, persist for weeks to months to years, and extend to subsurface levels.
+Major marine heatwaves affected the Great Barrier Reef in 2002, the Mediterranean Sea in 2003, the Northwest Atlantic in 2012, and the Northeast Pacific during 2013–2016. These events had drastic, long-term impacts. 
+Scientists predict that the frequency, duration, scale (area), and intensity of marine heatwaves will increase. This is because sea surface temperatures will continue to increase with global warming. The IPCC Sixth Assessment Report (SAR6) in 2022 stated that "marine heatwaves are more frequent [...], more intense and longer [...] since the 1980s, and since at least 2006 very likely attributable to anthropogenic climate change". This confirmed earlier findings in a 2019 IPCC report that "Marine heatwaves [...] have doubled in frequency and have become longer lasting, more intense and more extensive (very likely)." The 2022 report predicted that marine heatwaves will become "four times more frequent in 2081–2100 compared to 1995–2014" under the lower greenhouse gas emissions scenario, or eight times more frequent under the higher emissions scenario.
+
+Definition
+SAR6 defined marine heatwave as: "A period during which water temperature is abnormally warm for the time of the year relative to historical temperatures, with that extreme warmth persisting for days to months. The phenomenon can manifest in any place in the ocean and at scales of up to thousands of kilometres."
+A 2016 study defined it as: an anomalously warm event that "lasts for five or more days, with temperatures warmer than the 90th percentile based on a 30-year historical baseline period".
+The term was coined following an unprecedented warming event off the west coast of Australia in summer 2011 that led to a rapid dieback of kelp forests and associated ecosystem shifts along hundreds of kilometers of coastline.
+
+Categories
+Categorization allows researchers to compare event drivers and characteristics, geographical and historical trends, and communicate about them consistently.
+Marine heatwaves are classified via a naming system, typology, and characteristics. The naming system involves locale and year: for example Mediterranean 2003. 
+Events are rated on a scale from 1 to 4. Category 1 is a moderate event, Category 2 strong, Category 3 severe, and Category 4 extreme. The category is defined primarily by sea surface temperature anomalies (SSTA), later adjusted to include typology and characteristics.
+They are further classified according to the degree of symmetry, duration, intensity (max, average, cumulative), onset rate (slow/fast), decline rate, locale, and frequency. Various combinations have been observed. 
+While marine heatwaves have mostly been studied at the sea surface, they can also occur at depth, including at the sea floor.
+
+Drivers
+The drivers for marine heatwave events can be broken into local processes, teleconnection processes, and regional climate patterns. Two quantitative measurements of these drivers have been proposed to characterize marine heatwaves, mean sea surface temperature and sea surface temperature variability.
+At the local level marine heatwave events are dominated by ocean advection, air-sea fluxes, thermocline stability, and wind stress. Teleconnection processes refer to climate and weather patterns that connect geographically separated areas. The teleconnection processes that play a dominant role are atmospheric blocking/subsidence, jet-stream position, oceanic kelvin waves, regional wind stress, warm surface air temperature, seasonal climate oscillations, and nearby cyclones. These processes contribute to regional warming trends that disproportionately affect Western boundary currents.
+Regional climate patterns including interdecadal oscillations like El Niño Southern Oscillation (ENSO) have contributed to marine heatwave events such as "The Blob" in the Northeastern Pacific.
+Drivers that operate on the scale of biogeographical realms or the Earth as a whole are decadal oscillations, including Pacific decadal oscillations (PDO), and climate change.
+Ocean carbon sinks in the mid-latitudes of both hemispheres and carbon outgassing areas in upwelling regions of the tropical Pacific experience persistent marine heatwaves.
+
+Climate change
+Scientists predict that SSTs were expected to increase, along with the frequency, duration, scale (or area) and intensity of marine heatwaves will increase due to climate change. The extent of ocean warming depends on emissions mitigation efforts. More greenhouse gas emissions and/or less mitigation push SSTs up. Emissions scenarios are called Shared Socioeconomic Pathways (SSP). Higher number imply higher emission levels. The low emissions scenario (SSP1-2.6) would trigger an increase of 0.86 °C, while the high emissions scenario (SSP5-8.5) would be as high as 2.89 °C.
+Marine heatwaves are predicted to become "four times more frequent in 2081–2100 compared to 1995–2014" under the low emissions scenario, or eight times more frequent under the high emissions scenario. Mathematical model CMIP6 is used for these predictions. The predictions are for the period (2081-2100) compared to the average of (1995- 2014).
+Ocean warming is projected to push the tropical Indian Ocean into a basin-wide near-permanent heatwave state by the end of the 21st century, where marine heatwaves are projected to increase from 20 days per year (1970–2000) to 220–250 days per year. Similarly, in the western North Pacific region, model projections show the mean duration of marine heatwave events rising from about 11 days (1982–2014) to about 138 days per event, and annual marine heatwave days rising to about 270 days by 2100 under high emissions. In June 2026, the fourth annual edition of the Indicators of Global Climate Change study, published in Earth System Science Data, introduced a dedicated marine heatwave indicator for the first time. According to its authors, the number of marine heatwave days more than tripled globally between 1991 and 2025, with 2025 alone recording 65 such days.
+
+List of events
+Sea surface temperatures have been recorded since 1904 in Port Erin, Isle of Man, and measurements continue through global organizations such as NOAA, NASA, and many more. Events can be identified from 1925 till present day. The list below is not a complete representation of all marine heatwave events that have ever been recorded.
+
+Impacts
+Many species already experience these temperature shifts during the course of marine heatwave events. Many increased risk factors and health impacts affect coastal and inland communities as global average temperature and extreme heat events increase.
+
+Ecosystems
+Changes in the thermal environment can have drastic effects on the health and well-being of terrestrial and marine organisms. Marine heatwave events increase habitat degradation, change species' range, complicate fisheries management, contribute to mass mortality, and generally reshape ecosystems. Marine heatwaves alone are estimated to have caused USD 6.6 billion in fisheries losses between 1985–2022. Fisheries and aquaculture remain largely invisible in disaster assessments, despite providing livelihoods for 500 million people.
+Habitat degradation occurs through restructuring and sometimes complete loss of habitats such as seagrass beds, corals, and kelp forests. These habitats contain a significant proportion of the oceans' biodiversity. Changes in currents and thermal environments have already shifted many marine species' ranges away from the equator. Large range shifts, along with outbreaks of toxic algal blooms, have impacted species across taxa. Management of migrant species becomes increasingly difficult and food web dynamics shift.
+SST increases are linked to a decline in species abundance such as the mass mortality of 25 benthic species in the Mediterranean in 2003, sea star wasting disease, and coral bleaching events. Marine heatwaves in the Mediterranean Sea during 2015–2019 resulted in widespread mass sealife die-offs in five consecutive years. Repeated marine heatwaves in the Northest Pacific led to dramatic changes in animal abundances, predator-prey relationships, and energy flux throughout the ecosystem. Marine heatwave events were expected to impact species distribution.
+
+Coral bleaching
+On weather patterns
+Marine heatwaves in the tropical Indian Ocean were associated with dry conditions over central India and an increase in rainfall over south peninsular India in response to marine heatwaves in the northern Bay of Bengal. These changes are transmitted by monsoon winds.
+
+See also
+Effects of climate change on oceans
+Heat wave – Prolonged period of excessively hot weather
+The Blob (Pacific Ocean) – Warm water mass off the Pacific Northwest coast
+Ocean heat content – Energy stored by oceans
+
+Sources
+This article incorporates text from a free content work. Licensed under CC BY 4.0 (license statement/permission). Text taken from The Impact of Disasters on Agriculture and Food Security 2025​, The Food and Agriculture Organization of the United Nations.
+
+References
+External links
+"Marine Heatwave Tracker". tracker.marineheatwaves.org. Retrieved 2025-03-06.
+"Marine Heatwaves International Working Group". Marine Heatwaves. Retrieved 2025-03-06.
+Marine Copernicus. "Marine Heatwaves | CMEMS". marine.copernicus.eu. Retrieved 2025-03-06.
+PSL Web Team. "Marine Heatwaves: NOAA Physical Sciences Laboratory". psl.noaa.gov. Retrieved 2025-03-06.

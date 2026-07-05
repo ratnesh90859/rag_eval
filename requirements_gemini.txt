@@ -1,0 +1,33 @@
+# ─── Google AI ───────────────────────────────────────────────────────────────
+google-genai>=2.0.0
+google-generativeai>=0.8.0
+
+# ─── LlamaIndex (modern v0.14+) ──────────────────────────────────────────────
+llama-index>=0.14.0
+llama-index-core>=0.14.0
+llama-index-llms-google-genai>=0.9.0      # GoogleGenAI LLM (non-deprecated)
+llama-index-embeddings-google-genai>=0.5.0 # GoogleGenAIEmbedding
+llama-index-readers-file>=0.1.0
+
+# ─── TruLens 2.x ─────────────────────────────────────────────────────────────
+trulens-eval>=2.8.0                        # Meta-package (installs core + feedback + dashboard)
+trulens-apps-llamaindex>=2.8.0             # TruLlama integration
+trulens-providers-litellm>=2.8.0           # LiteLLM provider (for Gemini feedback)
+
+# ─── LiteLLM (Gemini routing) ────────────────────────────────────────────────
+litellm>=1.0.0
+
+# ─── Environment & config ────────────────────────────────────────────────────
+python-dotenv>=1.0.0
+
+# ─── Data processing ─────────────────────────────────────────────────────────
+pandas>=2.0.0
+numpy>=1.24.0
+
+# ─── PDF reading ─────────────────────────────────────────────────────────────
+pypdf>=3.17.0
+
+# ─── Jupyter ─────────────────────────────────────────────────────────────────
+ipykernel>=6.27.0
+ipywidgets>=8.1.0
+notebook>=7.0.0

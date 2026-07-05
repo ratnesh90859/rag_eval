@@ -1,0 +1,13 @@
+llama-index>=0.10.0
+llama-index-llms-google-genai
+llama-index-embeddings-google-genai
+google-genai>=0.3.0
+trulens>=0.28.0
+trulens-apps-llamaindex
+trulens-providers-litellm
+python-dotenv
+pandas
+numpy
+jupyter
+nest-asyncio
+wikipedia-api

@@ -4,3 +4,7 @@ __pycache__/
 *.sqlite
 *.pdf
 .ipynb_checkpoints/
+frontend/node_modules/
+backend/chroma_db/
+frontend/dist/
+.DS_Store

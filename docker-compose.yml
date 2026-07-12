@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+      - ./backend/chroma_db:/app/chroma_db
+      - ./.env:/app/.env
+    command: >
+      sh -c "uvicorn src.api.main:app --host 0.0.0.0 --port 8000 & trulens-eval --port 8501"
+    
+  frontend:
+    build: ./frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
